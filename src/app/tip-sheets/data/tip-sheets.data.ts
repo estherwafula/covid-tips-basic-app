@@ -12,7 +12,7 @@ export const TIP_SHEETS = [
     number: 3,
   },
   {
-    title: "Bad Behavior",
+    title: "When Children Misbehave...",
     number: 4,
   },
   {
