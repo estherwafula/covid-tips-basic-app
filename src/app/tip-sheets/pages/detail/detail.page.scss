@@ -5,7 +5,7 @@ section:nth-of-type(4n) {
 
 section:nth-of-type(4n + 1) {
   background: #5652a3;
-  color: white;
+  color: yellow;
 }
 
 section:nth-of-type(4n + 2) {
@@ -15,7 +15,7 @@ section:nth-of-type(4n + 2) {
 
 section:nth-of-type(4n + 3) {
   background: #ed1651;
-  color: white;
+  color: yellow;
 }
 
 img {
@@ -32,7 +32,7 @@ img {
 
 ion-back-button.tip-sheet-nav,
 ion-button.tip-sheet-nav {
-  color: rgba(255, 255, 255, 0.3);
+  color: yellow(255, 255, 255, 0.3);
 }
 
 @media print {

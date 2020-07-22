@@ -1,6 +1,6 @@
 export const TIP_SHEETS = [
   {
-    title: "One-on-One Time",
+    title: "One-on-one-time",
     number: 1,
   },
   {
